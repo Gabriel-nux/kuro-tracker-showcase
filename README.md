@@ -295,11 +295,8 @@ Os critérios de engenharia são os de um produto B2B: dado que não sai do clie
 1. **Dei como "validada" uma paleta que não estava.** Rodar o validador contradisse a minha memória.
 2. **Cancelar uma geração devolvia texto parcial como sucesso.** Fechar a conexão fazia o laço terminar sem erro.
 3. **O detector de anomalias não via o óbvio** numa categoria que misturava compras pequenas e grandes. Acrescentei uma segunda regra, por mês da categoria.
-4. **Furos na minha própria promessa.** Ao escrever perguntas difíceis de um *tech lead* para estudo, achei que a cópia do backup não era atômica e que o cliente HTTP seguia redirecionamentos. As duas coisas contradiziam o que eu afirmava; corrigi e testei.
-5. **Uma limpeza que atingiria o diretório do Python.** Só apareceu porque testei o desinstalador de verdade, não só a lógica.
-6. **Uma tecnologia citada em perfil público sem ter sido usada em nenhum projeto.** A auditoria contra o código a achou e ela saiu.
-
-A lição que mais repito: escrever as perguntas difíceis e testar o artefato final encontra mais do que reler o código.
+4. **Uma limpeza que atingiria o diretório do Python.** Só apareceu porque testei o desinstalador de verdade, não só a lógica.
+5. **Uma tecnologia citada em perfil público sem ter sido usada em nenhum projeto.** A auditoria contra o código a achou e ela saiu.
 
 ---
 
